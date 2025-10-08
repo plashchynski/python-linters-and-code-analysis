@@ -73,6 +73,7 @@ Feel free to contribute! Happy to receive PRs.
     * check-manifest - Tool to check the completeness of MANIFEST.in for Python packages:
     [https://github.com/mgedmin/check-manifest](https://github.com/mgedmin/check-manifest)
 * Security:
+    * **pip-audit** - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them. [https://github.com/pypa/pip-audit](https://github.com/pypa/pip-audit)
     * **safety** - Checks your installed dependencies for known security vulnerabilities. **A must for every Python project**: [https://github.com/pyupio/safety](https://github.com/pyupio/safety)
     * **bandit** - Python AST-based static analyzer from OpenStack Security Group. **A must for every Python project**:
     [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)
